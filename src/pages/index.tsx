@@ -7,6 +7,9 @@ export default function Home() {
       <Head>
         <title>new next app</title>
       </Head>
+      <main>
+        <h1 className={styles.title}>Welcome to new next app!</h1>
+      </main>
     </>
   );
 }

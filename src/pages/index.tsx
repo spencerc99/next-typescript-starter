@@ -6,6 +6,7 @@ export default function Home() {
     <>
       <Head>
         <title>new next app</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <main>
         <h1 className={styles.title}>Welcome to new next app!</h1>

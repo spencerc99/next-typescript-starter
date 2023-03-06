@@ -13,6 +13,9 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap"
           rel="stylesheet"
         />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" type="image/png" href="./tk.png" />
+        <link rel="apple-touch-icon" href="./tk.png" />
       </Head>
       <body>
         <Main />

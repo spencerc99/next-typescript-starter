@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <></>
+        <title>new next app</title>
       </Head>
     </>
   );
